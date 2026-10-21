@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/github/v/release/Screenly/3d-text-app)](https://github.com/Screenly/3d-text-app/releases/latest)
+
 # 3D Text Screensaver Edge App
 
 A nostalgic homage to the classic Windows 98 '3D Text' screensaver. This Edge App creates a smooth, bouncing 3D text effect that moves across your screen, complete with metallic gradients and dynamic lighting effects.
