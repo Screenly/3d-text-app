@@ -1,7 +1,7 @@
 ---
 syntax: manifest_v1
 description: 3D Text Edge App
-icon: https://playground.srly.io/edge-apps/3d-text/static/img/icon.svg
+icon: https://playground.srly.io/edge-apps/icons/3d-text.svg
 author: Screenly, Inc.
 categories:
   - Just for Fun
